@@ -33,19 +33,15 @@
 
 - index.html
 
-
 <!-- MODELO DESCRIÇÃO SOBRE O PROJETO: -->
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
 consulta-cep é um projeto com o objetivo de aplicar e consolidar os conhecimentos adquiridos em HTML, CSS e JavaScript.
 
-
-
-
-
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
+![image](https://github.com/user-attachments/assets/6f01bed2-2e5d-474a-bc57-046a5cac683c)
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
 <br>
@@ -53,18 +49,18 @@ consulta-cep é um projeto com o objetivo de aplicar e consolidar os conheciment
 
 <!-- MODELO DE COMO EXECUTAR O PROJETO -->
 ## 🚀 Como executar o projeto
-1 - Baixar o Projeto (git clone)  <br>
-`git clone https://github.com/LyviaFernandes/consulta-cep.git`
+1 - Baixar o Projeto (git clone)<br>
+`git clone https://github.com/anapicoli/api-consultacep`
 
 2 - Abrir a pasta em um editor de código <br>
-`cd consulta-cep`
+`cd consultacep`
 
 3- Acessar o index.html para visualizar o contéudo
 
 ### Ou acesse por aqui
 Você também pode acessar clicando nesse link do Github Pages:
 
-- [consulta-cep](https://github.com/LyviaFernandes/consulta-cep/)
+- [consulta-cep](https://github.com/anapicoli/api-consultacep)
 
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
@@ -95,12 +91,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
-
-<a href="[(https://www.linkedin.com/in/lyvia-fernandes-borges-b0097832a/)]">
-Lyvia Fernandes</a>
- <br />
-
+Ana Picoli
 
 <!-- ---------------------------------------------------------------------- -->
-
-
